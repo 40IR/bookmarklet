@@ -1,1 +1,1 @@
-javascript:(function(){let l=document.createElement("script");l.src="https://40ir.github.io/bookmarklet/loader.js";document.body.appendChild(l);})();void 0
+javascript:(function(){let l=document.createElement("script");l.src="https://raw.githubusercontent.com/40IR/bookmarklet/main/loader.js";document.body.appendChild(l);})();void 0
